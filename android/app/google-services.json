@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762144858667",
+    "project_id": "sabbus",
+    "storage_bucket": "sabbus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762144858667:android:a7e5787569c85f99f7806e",
+        "android_client_info": {
+          "package_name": "com.sabbus.sabbusapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2EbF7R-r99HpixyO-fMiY3fKKK5uhnOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
